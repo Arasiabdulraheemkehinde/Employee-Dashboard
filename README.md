@@ -1,5 +1,5 @@
 
-# Workforce Distribution and Strategic HR Planning
+# Employee Dataset
 
 ## Table of Contents
 1. [Problem Statement](#problem-statement)
@@ -21,7 +21,7 @@
 5. [Conclusion](#conclusion)
 
 ## Problem Statement:
-The company seeks to better understand its workforce distribution across various departments, locations, demographics, and employment history. The objective is to identify patterns, gaps, and areas of concern related to employee retention, diversity, and departmental strength. By gaining insights into these factors, the HR department aims to make data-driven decisions to improve workforce management, diversity, and long-term planning.
+The company seeks to better understand its workforce distribution across various departments, locations, demographics, and employment history. The objective is to identify patterns, gaps, and areas of concern related to employee retention, diversity, and departmental strength. By gaining insights into these factors, the HR department aims to make data-driven decisions to improve workforce management, diversity, and long term planning using excel for the analysis 
 
 ## Key Metrics:
 1. **Number of Staff by Department**: Total headcount in each department.
@@ -50,7 +50,7 @@ Retirement numbers are expected to peak between 2020 and 2025, after which they 
 Ohio has the highest number of employees, especially at the headquarters, followed by Pennsylvania and Illinois. Remote work is also notable, suggesting a flexible working arrangement.
 
 ### Age Distribution
-The majority of employees fall within the 31-40 and 41-50 age ranges, indicating a mature workforce with significant experience. The 21-30 age group is also well-represented, suggesting healthy entry-level hiring.
+The majority of employees fall within the 31-40 and 41-50 age ranges, indicating a mature workforce with significant experience. The 21-30 age group is also well represented, suggesting healthy entry-level hiring.
 
 ### Gender Diversity
 There is a relatively balanced gender distribution, with males slightly outnumbering females. A small percentage of employees identify as non-conforming, indicating inclusivity.
@@ -76,7 +76,7 @@ With a significant portion of the workforce in Ohio, consider whether the curren
 For the large mid-career employee groups (31-50 years), consider implementing retention programs focused on career development, mentorship, and work-life balance to maintain engagement and reduce turnover.
 
 ## Conclusion
-By addressing the key areas highlighted in this analysis—strategic hiring, succession planning, diversity initiatives, geographic distribution, and retention programs—the company can ensure a well-balanced, diverse, and future-ready workforce. Implementing these recommendations will support long-term growth, innovation, and a sustainable competitive advantage.
+By addressing the key areas highlighted in this analysis strategic hiring, succession planning, diversity initiatives, geographic distribution, and retention programs the company can ensure a well-balanced, diverse, and future-ready workforce. Implementing these recommendations will support long-term growth, innovation, and a sustainable competitive advantage.
 
 
 <img width="865" alt="Employee dashboard" src="https://github.com/user-attachments/assets/69bc80e5-6d6f-43a0-95fc-7e4c79598169">
